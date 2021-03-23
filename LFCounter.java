@@ -8,7 +8,7 @@ public class LFCounter implements ActionListener{
   int leftCounter = 0;
     int rightCounter = 0;
    LFCounter(){
-    JFrame frame = new JFrame("Counter");
+    JFrame frame = new JFrame("Let's Count");
     frame.setLayout(new FlowLayout());
     frame.setSize(200,110);
 
